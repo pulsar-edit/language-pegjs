@@ -6,12 +6,6 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "https://github.com/pulsar-edit/language-pegjs",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pulsar-edit/language-pegjs.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pulsar-edit/language-pegjs/issues"
-  }
+  "license": "MIT",
+  "repository": "https://github.com/pulsar-edit/language-pegjs"
 }
