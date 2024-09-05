@@ -2,6 +2,7 @@
 'name': 'PEGjs'
 'fileTypes': [
   'pegjs'
+  'peggy'
 ]
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
 'foldingStopMarker': '\\*\\*/|^\\s*\\}'
